@@ -4,6 +4,8 @@
   "description": "Projeto de backend com Node JS, criação de uma API",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +20,10 @@
   },
   "homepage": "https://github.com/ViniciusAlencarDev/API-RESTful-com-NodeJS#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
   }
 }
