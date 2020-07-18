@@ -1,0 +1,23 @@
+{
+  "name": "API-Rest-Node",
+  "version": "1.0.0",
+  "description": "Projeto de backend com Node JS, criação de uma API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusAlencarDev/API-RESTful-com-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusAlencarDev/API-RESTful-com-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ViniciusAlencarDev/API-RESTful-com-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
