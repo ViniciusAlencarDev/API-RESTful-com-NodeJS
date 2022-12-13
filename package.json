@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/ViniciusAlencarDev/API-RESTful-com-NodeJS#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ip": "^1.1.5",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
